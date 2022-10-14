@@ -1,0 +1,16 @@
+{
+    "name": "marco/composer-quest",
+    "description": "quest on composer and psr 4",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MARCO SIGISMONDI",
+            "email": "marco.sigismondi@hotmail.com"
+        }
+    ],
+    "require": {}
+}
